@@ -1,5 +1,5 @@
-Student Performance Analysis Using Machine Learning
-Project Overview
+# Student Performance Analysis Using Machine Learning
+## Project Overview
 This project focuses on analyzing student-related data and predicting their Grade Class using a wide range of machine learning algorithms.
 The dataset contains information about students such as age, gender, ethnicity, study time, absences, tutoring, parental support, extracurricular activities, sports, volunteering, and GPA.
 Instead of relying on a single machine learning algorithm, this project evaluates multiple models on the same dataset to understand how differently they perform and which models are most suitable for predicting student performance.
