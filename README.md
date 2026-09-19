@@ -25,4 +25,4 @@ This makes the comparison more informative and provides a better understanding o
 
 # Web View
 
-<img src="1.jpeg">
+<img src="1.PNG">
