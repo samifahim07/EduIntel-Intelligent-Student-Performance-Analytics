@@ -26,3 +26,9 @@ This makes the comparison more informative and provides a better understanding o
 # Web View
 
 <img src="1.PNG">
+
+<img src="2.PNG">
+
+<img src="3.PNG">
+
+<img src="5.PNG">
