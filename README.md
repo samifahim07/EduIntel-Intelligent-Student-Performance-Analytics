@@ -23,6 +23,33 @@ This makes the comparison more informative and provides a better understanding o
 
 ---
 
+## Dataset
+
+The dataset was collected from **Kaggle** and contains student demographic, academic, and behavioral information.
+
+### Main Features
+
+* Age
+* Gender
+* Ethnicity
+* Parental Education
+* Study Time Weekly
+* Absences
+* Tutoring
+* Parental Support
+* Extracurricular Activities
+* Sports
+* Music
+* Volunteering
+* GPA
+* Grade Class (Target)
+
+The target variable is **Grade Class**, which represents the student's academic performance category.
+
+---
+
+
+
 # Web View
 
 <img src="1.PNG">
