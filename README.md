@@ -25,4 +25,4 @@ This makes the comparison more informative and provides a better understanding o
 
 # Web View
 
-1![Result]([images/result.png](https://github.com/samifahim07/EduIntel-Intelligent-Student-Performance-Analytics/blob/61ea3e5974d1bb2093f5f1ef3cf4671f5befeda3/1.PNG))
+<img src="1.jpeg">
