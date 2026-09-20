@@ -70,6 +70,15 @@ The dataset is explored using:
 
 This helps provide an initial understanding of the structure and characteristics of the dataset.
 
+### 3. Data Quality Checking
+
+Before training the models, the dataset is checked for common data-quality problems.
+
+I specifically checked for:
+
+* Missing values
+* Duplicate rows
+
 
 
 
