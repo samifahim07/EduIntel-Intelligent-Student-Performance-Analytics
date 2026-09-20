@@ -95,7 +95,15 @@ The visualizations include:
 
 The correlation heatmap is particularly useful for understanding relationships between numerical features and identifying potentially important variables.
 
----
+
+### 5. Train-Test Split
+
+The target variable, **Grade Class**, is separated from the input features.
+
+The dataset is then divided into:
+
+* **75% Training Data**
+* **25% Testing Data**
 
 
 # Web View
