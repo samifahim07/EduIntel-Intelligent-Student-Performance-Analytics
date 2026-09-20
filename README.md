@@ -112,6 +112,27 @@ Since this is a relatively small dataset, a separate validation set was not used
 A wide range of machine learning algorithms are trained and evaluated on the same dataset.
 
 The models include:
+Since this is a relatively small dataset, a separate validation set was not used in the initial experiment.
+
+### 6. Model Training and Evaluation
+
+A wide range of machine learning algorithms are trained and evaluated on the same dataset.
+
+The models include:
+
+#### Ensemble and Tree-Based Models
+
+* Random Forest
+* Gradient Boosting
+* AdaBoost
+* Bagging
+* Extra Trees
+* HistGradientBoosting
+* Balanced Random Forest
+* RUSBoost
+
+
+
 
 # Web View
 
