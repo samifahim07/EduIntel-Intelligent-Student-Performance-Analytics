@@ -79,7 +79,23 @@ I specifically checked for:
 * Missing values
 * Duplicate rows
 
+In this dataset, **no missing values or duplicate records were found**.
 
+### 4. Exploratory Data Analysis
+
+Several visualization techniques are used to understand relationships and patterns within the dataset.
+
+The visualizations include:
+
+* Count plots
+* Histograms
+* Scatter plots
+* Box plots
+* Correlation heatmap
+
+The correlation heatmap is particularly useful for understanding relationships between numerical features and identifying potentially important variables.
+
+---
 
 
 # Web View
