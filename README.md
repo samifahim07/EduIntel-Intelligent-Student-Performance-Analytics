@@ -48,6 +48,29 @@ The target variable is **Grade Class**, which represents the student's academic 
 
 ---
 
+## Project Workflow
+
+The project follows a step-by-step machine learning workflow.
+
+### 1. Data Collection
+
+First, the dataset is loaded from Kaggle and prepared for analysis.
+
+### 2. Initial Data Exploration
+
+The dataset is explored using:
+
+* First 5 rows
+* Last 5 rows
+* Dataset columns
+* Dataset information
+* Data types
+* Statistical summary
+* Dataset shape
+
+This helps provide an initial understanding of the structure and characteristics of the dataset.
+
+
 
 
 # Web View
