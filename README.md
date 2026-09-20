@@ -105,6 +105,13 @@ The dataset is then divided into:
 * **75% Training Data**
 * **25% Testing Data**
 
+Since this is a relatively small dataset, a separate validation set was not used in the initial experiment.
+
+### 6. Model Training and Evaluation
+
+A wide range of machine learning algorithms are trained and evaluated on the same dataset.
+
+The models include:
 
 # Web View
 
