@@ -62,11 +62,12 @@ The dataset is explored using:
 
 * First 5 rows
 * Last 5 rows
+* Dataset shape
 * Dataset columns
 * Dataset information
 * Data types
 * Statistical summary
-* Dataset shape
+
 
 This helps provide an initial understanding of the structure and characteristics of the dataset.
 
